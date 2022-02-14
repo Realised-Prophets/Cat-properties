@@ -1,0 +1,2 @@
+# Cat-properties
+myCat
